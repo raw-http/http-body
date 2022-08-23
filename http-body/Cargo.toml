@@ -27,4 +27,4 @@ categories = ["web-programming"]
 
 [dependencies]
 bytes = "1"
-http = "0.2"
+http = { git = "https://github.com/raw-http/http" }
